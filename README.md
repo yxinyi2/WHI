@@ -1,0 +1,6 @@
+# WHI
+# Project Description
+
+  The Fred Hutch Cancer Research Center and Women's Health Initiative(WHI) have constructed an algorithm that leveraged Medicare claims to determine colorectal cancer diagnosis for patients enrolled in the WHI study. The overall goal is to use administrative data that have already been collected daily to capture cancer diagnoses in clinical trials. Currently, the research center has physicians to evaluate patients’ forms and adjudicate cancer outcomes. If we can demonstrate the accuracy of Medicare-derived diagnoses, the clients can have a pragmatic alternative method to leverage information from administrative data to document cancer diagnoses in clinical trials. 
+
+We focus on evaluating the in-house Medicare algorithm’s prediction performance and identifying potential places that need improvements for this project. The primary objective is to identify factors that contribute to the predictive power of the Medicare algorithm. The secondary objective is to determine whether the hazard ratio of invasive colorectal cancer for the Hormone Trials participants who received hormone therapies compared to patients who were on placebo arms are comparable using WHI-adjudicated vs. Medicare algorithm-derived outcomes.
